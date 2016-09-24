@@ -9,5 +9,8 @@ Requirements
 - Runs on any bash script supporting platform
 - Stremio needs to be installed
 
-License
+Wiki
+- Everyone may contribute on the wiki of this project!
+
+[b]License[/b]
 Stermio-sh is released under the terms of the GNU GPLv3 License. Please refer to the LICENSE file.
