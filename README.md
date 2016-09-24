@@ -6,11 +6,14 @@ Creating symbolic links to the files and adding the subtitles to the same direct
 [project is still in alpha stage]
 
 Requirements
+------------
 - Runs on any bash script supporting platform
 - Stremio needs to be installed
 
 Wiki
-- Everyone may contribute on the wiki of this project!
+----
+Everyone may contribute on the wiki of this project!
 
 License
-- Stermio-sh is released under the terms of the GNU GPLv3 License. Please refer to the LICENSE file.
+-------
+Stermio-sh is released under the terms of the GNU GPLv3 License. Please refer to the LICENSE file.
