@@ -4,6 +4,7 @@
 # if clean_old_symlinks then .. get next guid! (check modify date)
 # wait option -w waiting for new symlink to create. Test modify date!
 # Put main script in a function main(), so exit function can be placed at the bottom of the script
+# Auto detect current User
 
 # HISTORY:
 # version="1.04.2016-07-25" # initial
