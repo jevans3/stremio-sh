@@ -12,5 +12,5 @@ Requirements
 Wiki
 - Everyone may contribute on the wiki of this project!
 
-[b]License[/b]
-Stermio-sh is released under the terms of the GNU GPLv3 License. Please refer to the LICENSE file.
+License
+- Stermio-sh is released under the terms of the GNU GPLv3 License. Please refer to the LICENSE file.
